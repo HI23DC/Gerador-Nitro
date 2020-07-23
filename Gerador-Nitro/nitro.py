@@ -38,7 +38,6 @@ while i < 1000:
   r22 = random.randrange(0, 24)
   r23 = random.randrange(0, 24)
   r24 = random.randrange(0, 24)
+  print("https://discordapp.com/gifts/" + cod[r1] + cod[r2] + cod[r3] + cod[r4] + cod[r5] + cod[r6] + cod[r7] + cod[r8] + cod[r9] + cod[r10] + cod[r11] + cod[r12] + cod[r13] + cod[r14] + cod[r15] + cod[r16] + cod[r17] + cod[r18] + cod[r19] + cod[r20] + cod[r21] + cod[r22] + cod[r23] + cod[r24]);
   
-  print("https://discordapp.com/gifts/" + cod[r1] + cod[r2] + cod[r3] + cod[r4] + cod[r5] + cod[r6] + cod[r7] + cod[r8] + cod[r9] + cod[r10] + cod[r11] + cod[r12] + cod[r13] + cod[r14] + cod[r15] + cod[r16] + cod[r17] + cod[r18] + cod[r19] + cod[r20] + cod[r21] + cod[r22] + cod[r23] + cod[r24])
-  
- 
+  print("Gerador De Nitro Finalizou..")
