@@ -11,8 +11,8 @@ print("                         => Criador: Hi23")
 
 i = 0
 
-cod = ["a", "A", "0" "b", "B", "1", "c", "C", "2", "d", "D", "3", "e", "E", "4", "f", "F", "5", "g", "G", "6", "h", "H", "7", "i", "I", "8" "j", "J", "9", "k", "K", "l",
-"L", "m", "M", "n", "N", "o", "O", "p", "P", "q", "Q", "r", "R", "s", "S", "t", "T", "u", "U", "v", "V", "w", "W", "x", "X", "y", "Y", "z", "Z"]
+cod = ["a", "A", "b", "B", "c", "C", "d", "D", "e", "E", "4", "f", "F", "g", "G", "h", "H", "i", "I", "j", "J", "k", "K", "l",
+"L", "m", "M", "n", "N", "o", "O", "p", "P", "q", "Q", "r", "R", "s", "S", "t", "T", "u", "U", "v", "V", "w", "W", "x", "X", "y", "Y", "z", "Z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 print("Ativacao de nitro quase concluida...")
 time.sleep(2)
@@ -44,6 +44,5 @@ while i < 500:
   r22 = random.randrange(0, 62)
   r23 = random.randrange(0, 62)
   r24 = random.randrange(0, 62)
-  print("https://discord.com/gifts/" + cod[r1] + cod[r2] + cod[r3] + cod[r4] + cod[r5] + cod[r6] + cod[r7] + cod[r8] + cod[r9] + cod[r10] + cod[r11] + cod[r12] + cod[r13] + cod[r14] + cod[r15] + cod[r16] + cod[r17] + cod[r18] + cod[r19] + cod[r20] + cod[r21] + cod[r22] + cod[r23] + cod[r24]);
   
-  # https://discord.com/gifts/duHW5XPgE8AYsvWD2qCZ4EcH
+  print("https://discord.com/gifts/" + cod[r1] + cod[r2] + cod[r3] + cod[r4] + cod[r5] + cod[r6] + cod[r7] + cod[r8] + cod[r9] + cod[r10] + cod[r11] + cod[r12] + cod[r13] + cod[r14] + cod[r15] + cod[r16] + cod[r17] + cod[r18] + cod[r19] + cod[r20] + cod[r21] + cod[r22] + cod[r23] + cod[r24])
