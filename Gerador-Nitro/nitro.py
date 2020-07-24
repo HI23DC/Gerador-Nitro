@@ -1,7 +1,13 @@
 import time
 import random
 
-print("GERADOR DE NITRO:")
+print(" $$$$$$$$$$$$$$$$$$$$$$")
+print("$$$$$$$$$$$$$$$$$$$$$$$$")
+print("$$>|GERADOR DE NITRO|<$$")
+print("$$$$$$$$$$$$$$$$$$$$$$$$")
+print(" $$$$$$$$$$$$$$$$$$$$$$")
+print("                         => Criador: Hi23")
+
 
 i = 0
 
